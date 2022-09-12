@@ -1,0 +1,4 @@
+export const GET_ADMIN_BY_ID ="GET_ADMIN"
+export const ADD_ADMIN ="CREATE_ADMIN"
+export const UPDATE_ADMIN ="UPDATE_ADMIN"
+export const DELETE_ADMIN ="DELETE_ADMIN"
